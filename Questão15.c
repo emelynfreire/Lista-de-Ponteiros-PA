@@ -25,7 +25,7 @@ int aux=0;
 }
 
 
-int main(void){
+int main(){
 
     float *x;//criação vetor tipo float
     int n;//criação valor n do vetor
